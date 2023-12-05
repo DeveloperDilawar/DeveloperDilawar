@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **developerdilawar@gmail.com**
 
-- ⚡ Fun fact **I think I am passionate programmer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
