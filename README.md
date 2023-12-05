@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerdilawar&label=Profile%20views&color=0e75b6&style=flat" alt="developerdilawar" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerdilawar&label=Profile%20views&color=0e75b6&style=flat" alt="developerdilawar" /> </p>
 
 - 🔭 I’m currently working on **Flutter for android and ios**
 
@@ -16,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@dilawar-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@dilawar-developer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dilawar-hussain0047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilawar-hussain0047" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/developerdilawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="developerdilawar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/developerdilawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="developerdilawar" height="30" width="40" /></a>
