@@ -16,10 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dilawar-hussain0047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilawar-hussain0047" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/developerdilawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="developerdilawar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/developerdilawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="developerdilawar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/developerdilawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="developerdilawar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dilawar-hussain0047" target="blank"><img align="center" src="https://raw.githubusercontent.com/developerdilawar/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilawar-hussain0047" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/developerdilawar/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/developerdilawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/developerdilawar/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="developerdilawar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/developerdilawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/developerdilawar/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="developerdilawar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/developerdilawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/developerdilawar/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="developerdilawar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
